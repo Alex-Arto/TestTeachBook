@@ -9,6 +9,7 @@ parts:
       - file: some_content/text_and_code.ipynb
     - file: exercises.md
       sections:
+      - file: file_to_be_added_to_toc.md
       - file: exercises/001.md
       - file: exercises/002.md
       - file: exercises/003.md
